@@ -1,1 +1,5 @@
-infouni/settings_key.txt
+infouni_site/settings_key.txt
+*.pyc
+infouni_site/__pycache__
+db.sqlite3
+.DS_Store
